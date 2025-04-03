@@ -8,13 +8,15 @@
     body {
       background-color: #ffffff;
       margin: 0;
-      padding: 40px;
+      padding: 40px 20px;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       min-height: 100vh;
       box-sizing: border-box;
     }
+
     img {
       max-width: 100%;
       max-height: 90vh;
@@ -24,9 +26,30 @@
       box-shadow: 0 4px 20px rgba(0,0,0,0.08);
       border-radius: 10px;
     }
+
+    .linktree {
+      margin-top: 20px;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: 16px;
+      color: #444;
+    }
+
+    .linktree a {
+      text-decoration: none;
+      color: #444;
+      border-bottom: 1px dotted #888;
+    }
+
+    .linktree a:hover {
+      color: #000;
+    }
   </style>
 </head>
 <body>
   <img src="MindAlchemyAppHome.png" alt="Mind Alchemy Home">
+
+  <div class="linktree">
+    Visit me here: <a href="https://linktr.ee/meganeclaire" target="_blank">linktr.ee/meganeclaire</a>
+  </div>
 </body>
 </html>
