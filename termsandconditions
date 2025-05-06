@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terms and Conditions - Mind Alchemy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #ffffff;
+      color: #000000;
+      margin: 0;
+      padding: 30px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #000000;
+    }
+    a {
+      color: #0000EE;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Terms and Conditions</h1>
+    <p><strong>Effective Date:</strong> March 25, 2025</p>
+
+    <p>Welcome to Mind Alchemy (“the App,” “we,” “us,” or “our”). By using this application, you agree to the following Terms and Conditions. Please read them carefully.</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <ul>
+      <li>By downloading and using Mind Alchemy, you agree to abide by these Terms and our Privacy Policy.</li>
+      <li>If you do not agree, please discontinue use of the app.</li>
+    </ul>
+
+    <h2>2. Use of the App</h2>
+    <ul>
+      <li>This app is for personal well-being and self-improvement only.</li>
+      <li>You may not modify, reverse-engineer, or redistribute any part of the app.</li>
+      <li>Users must be at least 13 years old or meet local age requirements.</li>
+    </ul>
+
+    <h2>3. Intellectual Property</h2>
+    <ul>
+      <li>All designs, affirmations, and layouts are original and for use only within Mind Alchemy.</li>
+      <li>User-created content remains private unless manually shared.</li>
+    </ul>
+
+    <h2>4. Limitations of Liability</h2>
+    <ul>
+      <li>We are not liable for any indirect, incidental, or special damages resulting from use of the app.</li>
+      <li>Use of the app is at your own risk, and we are not responsible for device or data issues.</li>
+      <li>The app does not guarantee specific results from affirmations or manifestation practices.</li>
+    </ul>
+
+    <h2>5. Medical Disclaimer</h2>
+    <ul>
+      <li>The content is for general well-being and is not medical or psychological advice.</li>
+      <li>Consult a professional before making health or lifestyle changes.</li>
+      <li>Use of the app is at your own discretion and risk.</li>
+    </ul>
+
+    <h2>6. Subscriptions</h2>
+    <ul>
+      <li>Mind Alchemy offers optional premium features via in-app purchases through the Apple App Store.</li>
+      <li>Payments are processed securely by Apple. Taxes may apply.</li>
+      <li>No refunds are provided. Please review App Store policies before purchase.</li>
+      <li>Some content is available in a limited free version for preview.</li>
+    </ul>
+
+    <h2>7. Automatic Renewal</h2>
+    <ul>
+      <li>Subscriptions renew automatically unless canceled in advance.</li>
+      <li>To avoid charges, cancel through the App Store before the renewal date.</li>
+      <li>Deleting the app does not cancel your subscription.</li>
+    </ul>
+
+    <h2>8. Payment and Security</h2>
+    <ul>
+      <li>We do not store payment data. All transactions are handled by Apple.</li>
+      <li>More info: <a href="https://www.apple.com/legal/internet-services/itunes/us/terms.html" target="_blank">Apple Terms</a></li>
+    </ul>
+
+    <h2>9. Applicable Taxes</h2>
+    <ul>
+      <li>Prices may vary by region due to taxes or discounts. You’ll be notified at checkout.</li>
+    </ul>
+
+    <h2>10. Price Changes</h2>
+    <ul>
+      <li>We may change subscription prices. You’ll be notified before your next billing cycle.</li>
+      <li>Continued use after a price change implies agreement to the new price.</li>
+    </ul>
+
+    <h2>11. Changes to Terms</h2>
+    <ul>
+      <li>We may update or change the app or these terms at any time without notice.</li>
+      <li>Continued use of the app means you accept any updates.</li>
+    </ul>
+
+    <p><em>We appreciate your conscious participation and are honored to support your journey of transformation.</em></p>
+
+    <p><strong>Privacy Policy:</strong> <a href="https://mind-alchemy.github.io/MindAlchemy/privacypolicy.html">View here</a></p>
+  </div>
+</body>
+</html>
